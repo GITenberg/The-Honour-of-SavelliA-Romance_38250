@@ -1,0 +1,28 @@
+_repo: The-Honour-of-SavelliA-Romance_38250
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Levett Yeats, S. (Sidney)
+    aliases:
+    - Levett Yeats, Sidney
+    - Yeats, S. Levett
+    - Levett-Yeats, S. (Sidney)
+    gutenberg_agent_id: '9142'
+    url: http://www.gutenberg.org/2009/agents/9142
+description: ''
+gutenberg_issued: '2011-12-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38250'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Italy -- History -- 1492-1559 -- Fiction'
+title: 'The Honour of Savelli: A Romance'
+url: http://www.gutenberg.org/ebooks/38250
